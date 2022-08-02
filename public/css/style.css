@@ -1,0 +1,7 @@
+h1{
+    color: red; /*make heading text red*/
+}
+.completed{ /*target items with class 'complete'*/
+    color: gray; /*make items gray*/
+    text-decoration: line-through; /*strike through items*/
+}
